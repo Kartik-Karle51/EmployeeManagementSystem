@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="Icons/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/Icons"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/jar_files/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/ResultSet2xml.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
